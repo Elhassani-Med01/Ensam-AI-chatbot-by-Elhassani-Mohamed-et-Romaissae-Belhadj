@@ -1,0 +1,902 @@
+
+L’ENSAM de Meknès créée en 1997 sous les Hautes Directives Royales, c’est un établissement public de l’enseignement supérieur et composant de l’Université Moulay Ismail de Meknès, qui forme des ingénieurs d’états arts et métiers polyvalents pour répondre à la demande croissante du marché d’emploi.
+Date de création de l'ensam est 1997 
+Le club énergétique a été créé en 2021 sous l’impulsion de notre parrain, M. Mohammed El Mehdi El Guarni, qui a joué un rôle clé dans sa mise en place. Actuellement, nous en sommes à notre troisième mandat depuis sa création. Notre objectif est de travailler sur des projets innovants, d’assurer des formations, d’organiser des visites guidées dans des centrales thermiques, de participer à des compétitions, et de promouvoir nos activités à travers nos réseaux sociaux.
+
+Le Club Énergétique a prévu un programme riche d'activités et de projets innovants pour l'année. En ce qui concerne les formations, plusieurs sessions de grande envergure seront organisées. La formation PVSyst prévue pour la semaine 9 sera assurée par Soulaiman Reffase, ingénieur d'état en génie mécanique option énergétique. PVSyst est un logiciel de simulation dédié à l’étude, au dimensionnement et à l’analyse des systèmes photovoltaïques. Il permet notamment de dimensionner les systèmes PV, simuler la production énergétique, analyser les performances et étudier l'impact des conditions environnementales sur ces systèmes.
+
+La formation ANSYS prévue pour la semaine 10 sera dispensée par M. Younes El Khchine. Ce logiciel est principalement utilisé pour modéliser et analyser les comportements physiques des systèmes sous contraintes dans le domaine de l'ingénierie. L’analyse par éléments finis (FEA) d’ANSYS permet de simuler comment les structures mécaniques, électriques, thermiques et magnétiques réagissent aux différentes charges et conditions environnementales.
+
+Une formation pratique en bilan carbone et conformité réglementaire au Maroc sera également proposée. Cette session aidera les entreprises à mesurer, comprendre et gérer leurs émissions de CO₂ et autres gaz à effet de serre (GES) pour se conformer aux réglementations marocaines. L'objectif est de réduire l'impact environnemental des entreprises, d’optimiser leurs coûts et de les préparer aux normes internationales.
+
+La formation TRNSYS, dédiée à la simulation des systèmes énergétiques et thermiques, est aussi prévue. TRNSYS est un outil précieux pour l'étude de la performance des systèmes tels que les bâtiments, panneaux solaires ou systèmes de chauffage, ventilation et climatisation (HVAC). Ce logiciel modulaire permet d’analyser les variations temporelles des performances, en particulier dans les projets liés aux énergies renouvelables et à l'efficacité énergétique.
+
+En parallèle des formations, plusieurs projets innovants sont lancés. Le projet Villa éco-énergétique, en collaboration avec le Club Civil, consiste à concevoir une maison écologique utilisant des matériaux durables et des technologies éco-énergétiques. Cette maison intégrera des panneaux solaires, un système de récupération d’eau de pluie et des isolants naturels, visant à réduire l'empreinte carbone et à favoriser l’autosuffisance énergétique.
+
+Le projet Pavegen est une autre initiative marquante, qui utilise des dalles spéciales pour transformer l'énergie des pas en électricité. Chaque pas active un générateur électromagnétique, produisant de l'énergie qui peut être utilisée pour alimenter l'éclairage ou d’autres dispositifs urbains. Ce projet vise à promouvoir l’usage d’énergies renouvelables dans les espaces publics tout en sensibilisant la population à la transition énergétique.
+
+Le projet Four solaire a pour but de concevoir un four fonctionnant à l’énergie solaire, permettant ainsi de cuire des aliments sans utiliser d’énergies fossiles, contribuant ainsi à la réduction de l'empreinte carbone dans la vie quotidienne.
+
+Un autre projet innovant est celui des panneaux solaires automatisés. L'objectif est de concevoir un support intelligent pour panneaux solaires, équipé d’un suiveur de lumière. Ce système, qui ajuste automatiquement l’orientation des panneaux en fonction de la position du soleil, permettra d’améliorer le rendement énergétique des installations solaires, en garantissant une exposition optimale tout au long de la journée.
+
+Le projet de station météo autonome et connectée consiste à créer une station météo utilisant une carte Arduino pour mesurer des paramètres tels que la température, l'humidité et la pression. Les données collectées seront affichées sur un écran LCD et pourront être utilisées à des fins de recherche ou d’éducation.
+
+Enfin, le projet Vélo générateur d'énergie propose de transformer un vélo standard en générateur d’électricité. En exploitant l'énergie cinétique produite par le pédalage, ce vélo pourra charger des batteries ou alimenter des appareils électroniques tels que des lampes LED ou des téléphones, favorisant ainsi une approche ludique de la production d'énergie durable.
+
+En complément de ces projets, une visite à Green Park Energy Ben-Guerir est prévue pour les semaines 12 ou 13. Cette visite permettra aux membres du club de découvrir des installations énergétiques de pointe et d’approfondir leur compréhension des technologies liées à la gestion des énergies renouvelables.
+
+Ces activités et projets visent à enrichir les compétences des membres du club tout en contribuant concrètement à la promotion de l'énergie durable et des pratiques respectueuses de l'environnement.
+e planning des événements du Club Culturel comprend plusieurs activités importantes pour l'année. L'événement ENSAM Talk-X se tiendra le samedi 14 décembre 2024. La compétition de Tajwid du Coran aura lieu le dimanche 16 mars 2025. Enfin, la journée culturelle est prévue pour le dimanche 11 mai 2025.
+
+Le Club Robotique et Innovation des Arts et Métiers de l'ENSAM Meknès est un pilier
+fondamental de la vie parascolaire, offrant aux étudiants ingénieurs une plateforme dynamique
+pour explorer, apprendre et développer leur passion pour la robotique. Notre mission est de
+rendre cette discipline accessible à tous en partageant nos connaissances et en créant des
+opportunités d’apprentissage enrichissantes.
+Dans cette perspective, le club organise et structure ses activités tout au long de l’année
+académique, en mettant l’accent sur la diversité des initiatives proposées. Ces activités
+comprennent des formations techniques approfondies, des projets collaboratifs stimulants, ainsi
+que des compétitions internes et internationales. L’objectif est de favoriser l’engagement des
+membres, tout en cultivant un environnement propice à l’innovation, à la créativité et à
+l’acquisition de nouvelles compétences. En s’impliquant dans ces activités, les membres du
+club développent non seulement leurs compétences techniques, mais aussi leur esprit d’équipe,
+leur leadership et leur capacité à résoudre des problèmes complexes, contribuant ainsi à leur
+épanouissement personnel et professionnel.
+2. ACTIVITES PRINCIPALES
+Le Club Robotique et Innovation Arts et Métiers de l'ENSAM Meknès structure ses activités
+annuelles autour de trois axes principaux qui constituent les fondements de son activité et de
+son développement.
+
+1. Les formations :
+Ce pôle est considéré comme le plus important pour le club, car il assure la pérennité et la
+transmission des connaissances d'une génération à l'autre. Les formations sont axées sur les
+plateformes de développement les plus utilisées dans le monde, telles que Arduino, ESP32, et
+Raspberry Pi. Ces formations permettent aux membres d’acquérir des compétences techniques
+solides qui leur permettent de réaliser des projets avancés.
+
+2. Les projets :
+Chaque année, les membres du club s'engagent dans des projets choisis par la cellule technique.
+Ces projets sont adaptés aux différents niveaux et offrent un environnement propice à
+l'exploration de la curiosité et de la créativité. Que ce soit pour concevoir des prototypes ou
+expérimenter de nouvelles idées, ces projets sont au cœur de la dynamique du club.
+
+3. Les compétitions :
+Le club organise deux compétitions majeures par an :
+• Arts et Métiers Robotics Contest : Elle est dédiée aux nouveaux membres et consiste en
+un projet d'initiation sur un suiveur de ligne, un challenge technique qui permet aux
+débutants de mettre en pratique les bases de la robotique.
+• L'AFRICAN ROBOTICS BRAINS : Cette compétition rassemble des équipes de toute
+l'Afrique pour s'affronter et relever des défis innovants, basés sur des cahiers des
+charges complexes et exigeants, renforçant ainsi les échanges techniques et créatifs à
+l'échelle continentale.
+Ces trois pôles – formations, projets, et compétitions – sont complémentaires et permettent au
+club d’offrir à ses membres une expérience complète et enrichissante dans le domaine de la
+robotique et de l’innovation.
+
+Le premier semestre de l'année scolaire est marqué par la formation des nouveaux élèves
+ingénieurs, ainsi que par le recrutement des nouveaux membres du club. Après cette période, le
+travail sur les projets commence, notamment le projet académique et les projets avancés. Le
+semestre se termine en beauté avec la compétition Arts et Métiers Robotics Contest, un
+événement majeur qui clôture cette première phase de l'année.
+
+Le Club CRIAM prévoit un programme d'événements structuré pour l'année. Les formations Arduino pour le cycle préparatoire et ESP 32 pour le cycle ingénieur se dérouleront durant les Semaines 5 et 6. La remise des certificats de formation aura lieu le 11 novembre, suivie par le recrutement de nouveaux membres les 12 et 13 novembre. Un projet académique, portant sur un suiveur de ligne, sera lancé pour les nouveaux membres, tandis que des projets spécifiques seront proposés aux anciens membres durant les Semaines 9, 10 et 11. Enfin, le club participera à l'Arts et Métiers Robotics Contest le 14 décembre.
+
+Le deuxième semestre de l'année scolaire poursuit les activités du club, avec un accent
+particulier sur la consolidation des compétences et la progression des projets en cours. Une
+formation approfondie sur le Raspberry Pi est proposée aux membres, enrichissant ainsi leurs
+connaissances techniques. Le travail sur les projets avancés, se poursuit activement tout au long
+de cette période. Le semestre se termine par la compétition African Robotics Brains, un
+événement majeur qui requiert l'engagement total et la coopération de tous les membres du
+club, mettant en valeur leur travail collectif et leur passion pour la robotique.
+Le Club Social a prévu un programme annuel d'événements répartis sur les deux semestres. Au premier semestre, les événements incluent un don de sang en Semaine 4, un team building en Semaine 5, et la journée "Spread Hope's Day" en Semaine 8, le 17 novembre 2024. En Semaine 10, une visite à la maison de retraite est programmée pour le 30 novembre 2024, suivie du forum en Semaine 11, le 8 décembre 2024. Enfin, l'action Ghitae aura lieu en Semaine 13, le 21 décembre 2024. Pour le second semestre, les événements incluent la Journée d'espoir en Semaine 16, l'événement Al Qoffa durant le Ramadan, l’aménagement en Semaine 26, ainsi que la célébration de l'Aïd al-Adha.
+
+
+1ère année :
+Semestre 1 :
+Mécanique du point
+Electrocinétique
+Semestre 2 :
+Thermodynamique
+Chimie générale
+Automatisme
+Procédés de fonderie et de forge
+
+les travaux pratiques sont répartis entre différents départements en fonction de leur spécialité. Les séances de Mécanique vibratoire ont lieu au département de mécanique, au 1er étage, tandis que celles de Transferts thermiques, Turbomachines à fluides incompressibles et Machines thermiques se déroulent au département énergétique. Les TPs d'Informatique industrielle sont organisés au département AAAE, également au 1er étage. Enfin, les travaux pratiques de Gestion de production et de Systèmes de production se tiennent au département de mathématiques et informatique, ce dernier étant situé au 1er étage pour les systèmes de production.
+CAO: département math-info 3eme etage
+CMN: département math-info 3eme etage (CC 11, 12,13 ,14 )
+MDC: atelier civil
+MDS : département mecanique 1er etage
+RDM : département mecanique 2eme etage
+Topographie : jardin du departement
+Electronique de puissance : departement mecanique 2eme etage
+Machine electrique : : departement mecanique 2eme etage
+Usinage : atelier usinage, departement mecanique
+Forge et Fondrie : atelier Forge&Fondrie , departement materieaux
+Automatique (3 eme annee): departement A3E 1er etage a gauche . 
+Automatisme :  departement A3E 2eme etage .
+DAO: département math-info 3eme etage (CC 11, 12,13 ,14 )
+Electro technique : département mécanique 2eme étage 
+Chimie : département énergétique 1er année : 3eme étage ,2eme année : 2 eme étage 
+Métallurgie : département énergétique 2eme étage a gauche 
+
+
+la double diplômation 
+Qui d’entre nous, ne rêve pas, de traverser la méditerranée et d’étudier en Europe.
+Ce rêve peut désormais devenir réalité, 
+seulement, peu d’étudiants à l’ENSAM le 
+savent, cet article se consacra à élever le 
+mystère et de dresser un clair chemin pour 
+tous ceux qui veulent réaliser leur rêve.
+La double diplômation, tient son nom, bien 
+évidemment du fait qu’on obtient deux diplômes en parcourant un cursus universitaire de 5 à 6 ans maximum, 
+l’un est le diplôme d’arts et métiers de Meknès, l’autre de l’école à laquelle vous aurez accès.
+Cette formation se divise en quatre types :
+La formation ingénieur/ingénieur : cette formation dure 2 ans, l’étudiant choisi aura à 
+refaire sa quatrième année ainsi que sa cinquième année dans l’établissement d’accueil, en effet, le 
+choix de la spécialité dans cette formation n’a pas besoin d’être en relation avec la filière que vous 
+aviez déjà ici, à l’ENSAM Meknès. Parmi les écoles qui offrent cette possibilité : Arts et métiers en
+France ainsi que Centrale Lyon, après ces 2 ans, vous obtiendrez un diplôme d’ingénieur 
+généraliste.
+La formation « MASTER ARTS ET Métiers » : cette formation dure 1 an, l’étudiant 
+aura des cours à prendre à l’ENSAM mais aussi à la faculté pour obtenir son master, cette année 
+achevée, l’étudiant obtiendra un diplôme M2.
+La formation « MASTER CENTRALE LYON » : cette formation dure 1 an, cette 
+formation est un peu spéciale car l’étudiant suivra en effet, deux cours, l’un comme année 
+d’échange, donc les cours auront lieu à Centrale Lyon, comme un élève de la cinquième année, en 
+choisissant une spécialité, qui n’a pas forcément à avoir un rapport avec la filière que l’étudiant avait 
+déjà choisi ici à l’ENSAM, la deuxième est l’année de Master. La validation des deux formations est 
+nécessaire pour l’obtention des deux diplômes, l’un est un M2, l’autre un diplôme d’ingénieur 
+généraliste centrale Lyon niveau 1.
+Une formation d’année d’échange : cette formation est disponible en plusieurs pays, 
+notamment en Pologne, Allemagne et en France aussi. Cette formation dure une année, et 
+l’étudiant obtiendra une attestation d’échange à la fin.
+12 | Page
+Il est bon à savoir que si vous désiriez quitter le Maroc, pour du bon, que quelques pays européens,
+notamment l’Allemagne ne fait pas la différence entre les diplômes suivants : (bac+5, Master, diplôme 
+d’ingénieur).
+Le choix de la double diplômation se fait par un classement de filière, or, le classement auquel on fait allusion 
+ici, n’est pas le classement ordinaire, de nouveaux coefficients font face, et quelques éléments modules auquel 
+vous n’avez pas trop fait attention, feront la différence, on parle ici, notamment de l’anglais et du français, ainsi 
+que votre moyenne générale de la troisième et la quatrième année.
+La vie universitaire en France pourrait être qualifiée d’internationale, en effet vous aurez l’occasion, de 
+rencontrer des gens de toutes les nationalités (brésilienne, espagnole, japonaise, chinoise, colombienne..), 
+contrairement à ce que nous attendions, les arabes ne souffrent pas du racisme, peut-être qu’avec les anciennes 
+générations, la communication pourrait être difficile, ils voient les jeunes arabes comme une sorte de 
+malédiction, qui viennent pour occuper des postes qui sont 
+censés être destinés prioritairement aux jeunes français.
+Un élève ingénieur de l’ENSAM Meknès, Génie thermique 
+industrielle et énergies renouvelables, qui bénéficie en ce 
+moment d’un Master à centrale Lyon, a eu la gentillesse de 
+donner aux prochains étudiants des conseils, mais surtout des 
+consignes.
+Comme nous l’avons déjà mentionné auparavant, la durée de 
+la double diplomation dure d’un an jusqu’à deux ans, notre
+cher ami, estime que cette durée ne mérite pas d’acheter vos 
+fournitures des grandes surfaces, nous parlons ici,
+majoritairement des ustensiles de cuisine, et toutes les petites choses dont vous aurez besoin lors de votre séjour,
+il vous conseille de bien chercher dans la ville dans laquelle vous résiderez, vous y trouverez surement ce qu’ils 
+appellent le souk des arabes, où vous allez trouver de bonnes alternatives à des prix convenables . Ceci amène 
+une question très importante sur la table, quelle banque faudrait-il choisir ?
+Les étudiants généralement, ne savent où donner la tête, plusieurs offres, plus tentantes les unes que les autres 
+leur font face, c’est pour cela que notre ami, nous conseille de chercher d’ici au Maroc, ou sinon voir des 
+banques marocaines qui ont une certaine convention avec les françaises. Le point positif est que toutes les 
+banques, vous offrent un prix de bienvenue, exclusivement pour les étudiants dès que vous signez votre contrat.
+Toujours en traitant la gestion d’argent, il est nécessaire d’éclaircir un point, nous savons tous que lors de la 
+demande du VISA, on doit obligatoirement bloquer une certaine somme d’argent dans notre compte bancaire 
+(80.000 DH généralement), cette somme ne sera pas bloquée à l’éternité, en effet, cette somme pourra vous 
+servir lors de votre séjour là-bas, comme argent de poche où comme bon vous semble de l’utiliser.
+13 | Page
+Parmi les majeurs conseils que cet ami nous propose est d’être surtout sociable, se faire des amis, et ne pas rester 
+dans son coin, ne vous dites jamais que votre français n’est pas assez fluente, en effet, nous les marocains, nous 
+avons la chance d’avoir le français comme seconde langue, les autres nationalités, que j’ai cité auparavant, n’ont 
+jamais étudié cette langue, donc il est tout à fait normal que vous parlez de la façon que vous voulez, n’ayez 
+jamais honte, en plus les étudiants auxquelles vous ferez face sont assez ouverts d’esprit et matures pour faire 
+attention à ces petits détails. 
+En général, la vie estudiantine est assez agréable, et pour ceux qui aiment un peu de divertissement, les 
+universités, organisent des soirées et des fêtes deux fois par semaine, pour se distraire un peu.
+Dans le même esprit, Aicha Eddekaki, élève ingénieur en Génie Industriel et Productique, nous raconte son 
+expérience : « J’ai été sélectionné pour le cursus double diplôme ingénieur/ingénieur, j’ai choisi Paris comme 
+campus pour les études de la deuxième année. Depuis mon arrivée en France, je n’ai jamais ressenti du racisme 
+surtout que je porte le voile bien au contraire les gens se comportent d’une façon très normale, aucune 
+discrimination ni au niveau de l’école ni ailleurs. Je qualifie le rythme des études ici, assez mouvementé puisque 
+la charge horaire est très intense, 
+presque semblable à celle au 
+Maroc sauf qu’ici il y a plus de 
+projets.
+Concernant le mode de vie ici, 
+chacun s’adapte à sa manière 
+tout est accessible et puisque 
+nous sommes assez nombreux 
+ici on se sent presque chez nous,
+et puis nous les marocains on 
+s’adapte facilement. La seule 
+chose que je pourrais critiquer est le comportement des étudiants français, il n’y a pas une intégration pour les 
+étrangers, ils ont déjà leurs cliques mais je ne généralise pas, il y a bien sûr des exceptions des français qui 
+cherchent à t’aider et puis ici à Paris, il y a beaucoup d’étrangers avec qui on partage plusieurs activités. En 
+aucun cas je ne regrette mon choix, c’est une expérience que je mène jusqu’à présent à merveille, espérons que 
+ça continue comme ça. » 
+Nous touchons à la fin de cet article, que nous espérons être riche en informations, et qu’il vous soit utile, et 
+nous vous souhaitons, tous, une bonne chance.
+L’Université Moulay Ismail Meknès en collaboration avec L’Université des sciences appliquées d’Aachen 
+en Allemagne donne l’opportunité pour s’inscrire à l’un des bachelors suivants : Génie informatique, génie 
+biomédical, science en chimie appliquée, génie électrique. 
+Pour le génie électrique, les étudiants de Bachelor suivent leurs séances de cours et de Travaux Pratiques dans 
+l’Ecole Supérieure de Technologie (EST Meknès).
+Présentation de la formation GE : 
+ La Formation est offerte conjointement par l’Université Moulay Ismail (UMI) et l'Université 
+d’Aachen en Allemagne (FH). 
+ Les étudiants sont inscrits conjointement à l’UMI et à la FH. 
+La formation dure 4 ans (8 semestres), les 5 premiers semestres seront effectués à l’UMI et les 3 autres 
+semestres auront lieu à la FH. 
+ Les étudiants sont traités de la même manière que ceux inscrits à la FH.
+ Des bourses de mérites peuvent être octroyées aux étudiants au cours de leur séjour en Allemagne. 
+ La formation sera couronnée par une double diplômation : de l’Université Moulay Ismail et de 
+l'Université d’Aachen. 
+ Possibilités de Poursuite d’études gratuites en Allemagne : Master, PhD. 
+Pour les autres branches ; les étudiants suivent leurs séances de cours dans leurs propres départements tout à 
+côté de l’ENSAM Meknès et quelques Travaux Pratiques aux départements de l’ENSAM, cela retourne tout 
+simplement à la collaboration avec l’Université Moulay Ismail. 
+Présentation de la formation :
++ Cette formation est offerte conjointement par L'Université Moulay Ismaïl (UMI) et l'Université 
+des Sciences Appliquées d'Aachen (ACUAS). 
++ La formation dure 4 ans soit 8 semestres. Les 5 premiers semestres à l’UMI et les 3 restants à 
+l’ACUAS. 
++ A partir du 5ème semestre, les étudiants auront la possibilité de suivre des cours assurés par le 
+corps enseignant allemand, soit par vidéoconférence à l’UMI. 
++ Les stages de fin d’études auront lieu en Allemagne. 
+Les lauréats vont bénéficier : 
+ d’un diplôme d’université de l’UMI ;
+ d’un diplôme allemand de l’ACUAS ;
+ Les lauréats auront la possibilité de s’inscrire en master et en Ph.D. avec les mêmes privilèges
+que les étudiants allemands ;
+ Des bourses pourraient être octroyées aux étudiants méritants. 
+L’ENSAM de Meknès créée en 1997 sous les Hautes Directives Royales, c’est un établissement public de l’enseignement supérieur et composant de l’Université Moulay Ismail de Meknès, qui forme des ingénieurs d’états arts et métiers polyvalents pour répondre à la demande croissante du marché d’emploi.
+
+1. Introduction Générale
+L'enquête d'insertion Arts et Métiers a été conçue pour offrir aux lauréats et aux futurs ingénieurs une vision claire de leurs débouchés professionnels après leurs études.
+
+Objectifs
+Identifier les liens entre la formation dispensée à l'ENSAM et l'insertion professionnelle des diplômés.
+Analyser les secteurs d'emploi, les compétences les plus demandées et les attentes du marché.
+Mettre en lumière les éventuelles lacunes dans la formation afin de proposer des pistes d'amélioration.
+Méthodologie
+Un échantillon de 119 lauréats, issus des promotions 2002-2021, a été interrogé.
+L'anonymat des participants a été strictement respecté pour garantir des réponses honnêtes et fiables.
+Les données collectées incluent des statistiques détaillées ainsi que des témoignages qualitatifs.
+2. Approche par Filière
+2.1. Structure de la Formation
+La formation à l’ENSAM est répartie sur cinq années (10 semestres), structurées comme suit :
+
+Cycle préparatoire (2 ans) :
+Enseignement des bases scientifiques (mathématiques, physique), des techniques fondamentales et des compétences en communication.
+Cycle ingénieur (3 ans) :
+Phase polyvalente : Développement de projets multidisciplinaires pour une vision globale des problématiques industrielles.
+Phase d’approfondissement : Spécialisation dans un domaine technique précis en fonction des besoins du marché.
+2.2. Spécialités Enseignées
+Les filières disponibles permettent aux étudiants de se spécialiser dans les secteurs suivants :
+
+Génie Civil : Conception de structures, gestion des projets, infrastructures ferroviaires, ouvrages hydrauliques.
+Génie Industriel : Lean manufacturing, logistique intelligente, gestion de qualité, IA et science des données.
+Génie Mécanique :
+Procédés de fabrication : Simulation numérique, choix des matériaux.
+Énergétique : Gestion thermique, efficacité énergétique.
+Structures et ingénierie : Modélisation, fabrication additive.
+Génie Électromécanique :
+Commande et management industriel : Automatisation, maintenance 4.0, réalité augmentée.
+Énergie et maintenance : Électrotechnique, stockage et gestion de l’énergie.
+3. Données Démographiques et Salaires
+3.1. Répartition des Lauréats
+Genre : 51 % hommes, 49 % femmes.
+Années de promotion :
+2020-2021 : 41,2 %.
+2014-2019 : 40,3 %.
+Promotions antérieures (2002-2013) : 18,5 %.
+3.2. Salaires Moyens
+Salaires initiaux :
+Génie Civil : Entre 8 000 et 10 000 DH (59 % des lauréats).
+Génie Industriel : Entre 10 000 et 14 000 DH (71,4 %).
+Génie Mécanique : Variations entre 6 000 et plus de 20 000 DH.
+Salaires actuels :
+54 % des diplômés ayant poursuivi leurs études gagnent plus de 20 000 DH.
+66,7 % des diplômés sans poursuite d’études gagnent entre 8 000 et 14 000 DH.
+3.3. Répartition Régionale
+Régions avec salaires élevés : Casablanca-Settat, Marrakech-Safi, Souss-Massa.
+Lauréats travaillant à l’étranger : Salaire initial moyen de 16 200 DH.
+4. Stages et Premier Emploi
+4.1. Types de Stages
+Stage d’initiation : Découverte du monde professionnel (optionnel, cycle préparatoire).
+Stage technicien : Application des bases théoriques (1ère année du cycle ingénieur, durée minimale de 4 semaines).
+Stage de formation : Missions complexes, généralement réalisées en 4ème année.
+Stage de fin d’études : Projet professionnel complet en dernière année (conversion en emploi dans 50 % des cas).
+4.2. Recherche de Stage
+Sources principales pour trouver un stage :
+Réseaux personnels : 57 %.
+Offres de l’établissement : 20 %.
+Réseaux sociaux et sites d’annonces (LinkedIn, Indeed, etc.) : 23 %.
+4.3. Premier Emploi
+Délais pour décrocher un emploi :
+84 % des lauréats trouvent un emploi en moins de 6 mois.
+Obstacles rencontrés :
+Insuffisance des compétences linguistiques (français et anglais).
+Absence de connexions professionnelles.
+5. Hard & Soft Skills
+5.1. Hard Skills
+Compétences techniques les plus demandées : Programmation, simulation numérique, automatisation industrielle, analyse de données.
+Développement via :
+La formation académique.
+Les projets parascolaires.
+5.2. Soft Skills
+Qualités clés recherchées : Communication, travail en équipe, leadership, résolution de problèmes.
+Obstacles liés aux soft skills : Manque de confiance en soi, gestion insuffisante du stress.
+5.3. Facteurs Clés pour l’Emploi
+Réseaux professionnels.
+Persévérance et apprentissage autonome.
+6. Observations et Recommandations
+6.1. Feedback des Lauréats
+88 % estiment que la formation ENSAM est bien adaptée au marché marocain.
+16,1 % déclarent avoir subi un stress significatif durant leur cursus.
+6.2. Suggestions d’Amélioration
+Augmenter la spécialisation des programmes.
+Réduire la charge académique pour alléger la pression sur les étudiants.
+Recruter des enseignants qualifiés et investir dans des infrastructures modernes.
+Directeur de l'ecole nationame d arts et metier est Monsieur Aboubakr BOUAYAD
+
+
+Directeur Adjoint chargé des Affaires Académiques:
+El Gadari M'hammed
+
+E-mail :
+
+Secrétaire Général:
+Mohammed Allaouy
+
+E-mail: contact@ensam.umi.ac.ma
+
+Chargé de Mission : Responsable du CEDoc et de la recherche scientifique:
+RADOUANI Mohammed
+
+E-mail: m.radouani@ensam-umi.ac.ma
+
+Chargé de Mission : Responsable des relations industrielles: BOUOULID IDRISSI BADR
+
+E-mail: contact@ensam.umi.ac.ma.
+
+Chargé de Mission : Responsable de l'encadrement des activités universitaires parallèles et du rayonnement institutionnel : MANSSOURI IMAD
+
+E-mail: i.manssouri@umi.ac.ma.
+
+Chargé de Mission : Responsable de la Gestion des Systèmes Informatiques:
+ZEMMOURI EL MOKHTAR
+L addrsse de l ensam meknes Adresse : Marjane 2, B.P. 15290 Al-Mansour, Meknès
+Centre d’Études Doctorales:
+Recherche et Innovation pour les Sciences de l’Ingénieur
+Mission:
+La mission principale du Centre d’Études Doctorales: Recherche et Innovation pour les Sciences de l’Ingénieur, domicilié à l’ENSAM-Meknès, est l’accompagnement des doctorants dans les différents stades de la préparation de leurs thèses, et de leur assurer une formation complémentaire dans des domaines porteurs et innovants qui les prépare à l’après-thèse.
+Objectifs:
+Recrutement de nouveaux doctorants, Organisation des inscriptions et des réinscriptions, Gestion de soutenances de thèse, Suivi et gestion des formations complémentaires, Gestion des bourses pour doctorants, Organisation de journées doctorales.
+Politique Scientifique:
+Recherche Scientifique
+La recherche scientifique est un moteur fondamental de l’école Nationale Supérieure d’Arts et Métiers (ENSAM) à Meknès, elle représente une condition indispensable à la qualité de son enseignement. Dans ce sens l’ENSAMM met en œuvre toutes ses ressources pour conserver la connaissance et accroître ses compétences au service de la région, de la nation et de l’humanité toute entière. Seules la recherche scientifique et une formation de qualité feront sa notoriété.
+La promotion de la recherche scientifique et technique, son insertion dans des réseaux nationaux et internationaux, son renforcement et sa valorisation constituent les actions de base de la politique scientifique de la nouvelle direction de l’École.
+La Recherche à l'ENSAM-Meknès
+La recherche que l’ENSAM-Meknès souhaite développer est une recherche en connexion forte et permanente avec le tissu socioprofessionnel. Elle doit être toujours à l’écoute des grands enjeux sociétaux et économiques, à travers une contribution conséquente à l’amélioration de la compétitivité des entreprises, au développement de l’innovation scientifique et technologique, et au développement durable. La diversité des talents des chercheurs de l’École doit être en mesure de satisfaire cette demande, en recherchant la meilleure adéquation possible avec les besoins de nos partenaires économiques.
+Pour répondre à ces multiples attentes, l’École adopte, depuis quelques temps, une stratégie d’innovation moderne qui est basée sur les concepts du développement durable, en prenant compte des aspects économiques, sociétaux et environnementaux.
+La recherche développée à l’École est une recherche partenariale efficace qui favorise l’éclosion d’idées nouvelles et accroît le niveau des compétences. C’est aussi une voie équilibrée, complémentaire et enrichissante entre la formation des ingénieurs et celle des docteurs.
+Consciente de la dimension internationale de la recherche, l’École attache une importance accrue à l’intégration de ses unités de recherche dans la communauté scientifique internationale, et à l’ouverture de ses recherches aux problématiques internationales. Une ouverture réelle à l’international nécessite alors un renforcement du partenariat institutionnel avec les meilleures équipes de recherche de par le monde et un encouragement des travaux communs à travers la mobilité des chercheurs. Aussi, ces mêmes unités doivent avoir le souci de répondre aux appels d’offres nationaux et internationaux de grande envergure.
+En dernier mot, toutes ces aspirations ne peuvent se concrétiser que par un engagement sans relâche, une adhésion inconditionnelle, et par une mobilisation sans précédant de notre communauté scientifique.
+Thématiques stratégiques:
+La recherche scientifique à l’ENSAM-Meknès se veut une recherche utile à finalité, et tournée vers l’innovation. En effet, l’École développe énormément d’axes de recherche ayant trait aux Sciences de l’Ingénieur, et déclinés en thématiques stratégiquement bien définies.
+Les thématiques essentielles développées à l’ENSAM-Meknès sont comme suit:
+Matériaux conventionnels et avancés,
+Systèmes mécaniques et énergétiques,
+Systèmes industriels et mécatroniques,
+Modélisation et Simulation.
+Règlement de l’évaluation des connaissances,
+des qualifications et des compétences
+pour les Années Préparatoires et Cycle Ingénieur
+de l’Ecole Nationale Supérieure d’Arts et Métiers
+Introduction
+Vu l’arrêté du Ministre de l'Enseignement Supérieur, de la Recherche Scientifique et de la Formation
+des cadres n° 2087-14 du 05 hija 1435 ( 30 septembre 2014) approuvant le cahier des Normes
+Pédagogiques Nationales des deux années préparatoires des écoles d'ingénieurs;
+Vu l’arrêté du Ministre de l'Enseignement Supérieur, de la Recherche Scientifique et de la Formation
+des cadres n° 2088-14 du 05 hija 1435 ( 30 septembre 2014) approuvant le cahier des Normes
+Pédagogiques Nationales du cycle d’ingénieurs des écoles d'ingénieurs.
+Article 1: Année universitaire
+L'année universitaire est composée de deux semestres. Chaque semestre compte dix-huit (18)
+semaines d'études et d'évaluation.
+Article 2: Contrôle Continu
+L’évaluation des connaissances et des compétences dans chaque élément de module se fait par le biais
+d’un contrôle continu, au moins une fois sous la forme de devoirs, d’exposés ou de rapports, ou de tout
+autre moyen d’évaluation, conformément au descriptif de la filière.
+Article 3: Examens
+Les élèves- ingénieurs sont tenus à respecter les horaires de début d’examen. Ils ne peuvent quitter la
+salle d’examen qu’après une demi-heure. Ils ne seront pas autorisés à accéder à la salle d’examen
+après un retard de plus d'une demi-heure.
+Article 4: Moyenne de l’élément de module
+La note de l’élément de module est la moyenne pondérée des notes du contrôle continu, de l’examen et
+des Travaux Pratiques (TP). Elle varie entre 0 et 20 et elle est calculée comme suit :
+𝑀𝑜𝑦𝑒𝑛𝑛𝑒 𝑑𝑒 𝑙
+′
+é𝑙é𝑚𝑒𝑛𝑡 =
+𝐶1 × 𝑚𝑜𝑦𝑒𝑛𝑛𝑒𝐶𝐶𝑥0,3 + 𝑚𝑜𝑦𝑒𝑛𝑛𝑒 𝐸𝑥𝑎𝑚𝑒𝑛 𝑥0,7 + 𝐶2 × 𝑚𝑜𝑦𝑒𝑛𝑛𝑒 𝑇𝑃
+𝐶1 + 𝐶2
+CC : Contrôle Continu
+C1 : Coefficient du CC et de l’examen
+C2 : Coefficient des Travaux Pratiques (TP)
+Article 5: Moyenne du module
+La note du module est la moyenne pondérée des éléments qui le composent elle est calculée comme
+suit:
+𝑀𝑜𝑦𝑒𝑛𝑛𝑒 𝑑𝑢 𝑀𝑜𝑑𝑢𝑙𝑒 =
+ 𝐶𝑖 × 𝑚𝑜𝑦𝑒𝑛𝑛𝑒 𝐸𝑙é𝑚𝑒𝑛𝑡 𝑖 𝑖
+ 𝑖 𝐶𝑖
+Ci= coefficient de l’élément
+i = 1,2,3,4
+Article 6: Validation du module
+Pour les deux années préparatoires, le module est validé avec une note supérieure ou égale à 11 sur 20
+à condition que les notes des éléments qui constituent le module ne soient inférieures à 07 sur 20.
+Pour le cycle ingénieur, le module est validé avec une note supérieure ou égale à 12 sur 20 à condition
+que les notes des éléments qui constituent le module ne soient inférieures à 08 sur 20.
+Article 7: Modalité du rattrapage
+Tout élève-ingénieur n’ayant pas validé un module doit passer le rattrapage du module non validé une
+seule fois. Il conserve les notes obtenues des éléments de module supérieures ou égales à 11 sur 20
+pour les deux années préparatoires et supérieures ou égales à 12 sur 20 pour le cycle ingénieur.
+Après la session de rattrapage de l’élément, l’élève ingénieur conserve la note du contrôle continu au
+niveau de la moyenne générale de l’élément de module qui sera calculée comme suit:
+Sup [Session Ordinaire; Sup [(30% C.C + 70% Rat) ; Rat]]
+CC : Contrôle Continu
+Rat : Rattrapage
+Article 8: Travaux Pratiques, projets d'étude et stages de formation
+Les notes des travaux pratiques, projets d'étude et stages de formation ne sont pas rattrapées.
+Article 9: Note finale du module après le rattrapage
+Lorsque le module est validé après la session du rattrapage, la moyenne finale du module est 11 sur 20
+pour les deux années préparatoires et 12 sur 20 pour le cycle ingénieur.
+Dans le cas où le module n’est pas validé après la session de rattrapage, l’étudiant conserve la note la
+plus élevée obtenue dans chaque élément.
+Article 10: Moyenne annuelle
+La moyenne annuelle est calculée comme suit :
+Mi : moyenne du module
+Ci : est son coefficient
+Article 11: Validation des deux années préparatoires
+Pour valider les deux années préparatoires, il faut remplir les trois conditions suivantes :
+1. La moyenne générale de l’année est supérieure ou égale à 11 sur 20;
+2. Le nombre des modules non validés ne doit pas dépasser deux (02);
+3- Aucune moyenne de module ne doit être inférieure à 7 sur 20.
+
+Article 12: Validation de la première et deuxième année du cycle ingénieur
+Pour valider la première et la deuxième année du cycle ingénieur, il faut remplir les trois conditions
+suivantes :
+1. La moyenne générale de l’année est supérieure ou égale à 12 sur 20;
+2. Le nombre des modules non validés ne doit pas dépasser trois (03);
+3- Aucune moyenne de module ne doit pas être inférieure à 8 sur 20.
+Article 13: Année de réserve
+Sur proposition du jury des délibérations de fin d’année, le Directeur de l’établissement peut accorder
+une seule et unique année de réserve à un élève-ingénieur qui n’a pas pu valider son année
+universitaire. Ce dernier doit suivre obligatoirement et en priorité tous les éléments de module non
+validés. Il conserve les notes des éléments qui sont supérieures ou égales à 11 sur 20 pour les années
+préparatoires et à 12 sur 20 pour le cycle ingénieur.
+Article 14: Perte de droit d'inscription
+L'élève-ingénieur perd le droit d'inscription s'il a épuisé son année de réserve. L’établissement lui
+remettra une attestation indiquant tous les modules validés au cours des années passées.
+Article 15: Année blanche
+Sur proposition du jury des délibérations de fin d’année, le Directeur de l’établissement peut accorder
+une année blanche à tout élève-ingénieur dont le dossier comprend les documents suivants:
+1. Un rapport médical ou tout dossier administratif prouvant l'incapacité de l'étudiant à
+poursuivre ses études au cours de l'année universitaire pendant au moins huit (08) semaines
+consécutives ;
+2. Une demande manuscrite pour bénéficier d’une année blanche.
+Article 16: Validation du Semestre 5
+Pour valider le semestre 5 du cycle ingénieur, il faut remplir les trois conditions suivantes :
+1. La moyenne générale obtenue pendant le semestre 5 est supérieure ou égale à 12 sur 20 ;
+2. Le nombre des modules non validés ne doit pas dépasser un (01) ;
+3. La moyenne de chaque module ne doit pas être inférieure à 08 sur 20.
+Article 17: Validation du Semestre 6 : Projet Industriel de Fin d’Etudes (PIFE)
+Le PIFE est obligatoire pour valider le semestre 6 du cycle ingénieur. Il s’agit d’un stage pratique
+conforme au descriptif de la filière concernée. La durée du PIFE s’étend sur au moins 16 semaines.
+Le semestre 6 est validé après une soutenance du PIFE devant un jury et en obtenant une note
+supérieure ou égale à 12 sur 20.
+Article 18: Obtention du Diplôme
+L’élève ingénieur obtient le diplôme d'ingénieur d'Etat « Arts et Métiers » s’il rempli les trois
+conditions suivantes:
+1. validation de la première et de la deuxième année du cycle ingénieur ;
+2. Validation du semestre 5;
+3. Validation du semestre 6 (PIFE).
+Article 19: Moyenne d’obtention de la mention
+La Moyenne d’obtention de la mention est calculée comme suit :
+M1 : Moyenne 1A Cycle ingénieur ;
+M2 : Moyenne 2A cycle ingénieur ;
+S5 : Moyenne Semestre 5 cycle ingénieur ;
+PIFE : Moyenne du Projet Industriel de Fin d’études ;
+Pour les étudiants en mobilité internationale, la note de la mention est calculée en tenant compte de la spécificité du système
+d’évaluation des connaissances des établissements d’accueil.
+Article 20: Jury de délibération
+Article 20.1: Jury de délibération du semestre
+Le jury de délibération du semestre est composé du Directeur de l’établissement ou de son
+représentant en qualité de Président, du coordinateur de la filière des années préparatoires, des
+coordinateurs des filières du cycle ingénieur et des coordinateurs des modules enseignés ainsi que
+tous les professeurs impliqués dans l'encadrement et/ou l’enseignement des modules au cours du
+semestre. Ce jury arrête la liste des élèves-ingénieurs qui ont validé les modules.
+Article 20.2: Jury de délibération de fin d’année
+Le jury de délibération de fin d’année est composé du Directeur de l’établissement ou de son
+représentant en qualité de Président, du coordinateur de la filière des années préparatoires, des
+coordinateurs des filières du cycle ingénieur et des coordinateurs des modules enseignés ainsi que
+tous les professeurs impliqués dans l'encadrement et/ou l’enseignement des modules au cours de
+l’année. Ce jury arrête la liste des élèves-ingénieurs qui ont validé l’année.
+Article 20.3: Commission des filières pour l'obtention du diplôme
+La commission des filières pour l'obtention du diplôme d'ingénieur d'Etat "Arts et Métiers" est
+composée du Directeur de l’établissement ou de son représentant en qualité de Président, des
+coordinateurs des filières et des modules enseignés en cycle ingénieur ainsi que tous les professeurs
+qui enseignent et encadrent dans la filière. Cette commission arrête la liste des lauréats et accorde les
+mentions.
+Assiduité et comportement
+Article 21: La présence
+- L'élève-ingénieur doit assister à toutes les activités pédagogiques : cours théoriques, travaux
+pratiques, travaux dirigés, contrôles continus, examens, visites, stages, formations,
+conférences, séminaires et toute autre activité programmée par la direction de l’établissement.
+- L’assiduité est prise en considération par le professeur dans la note finale de chaque matière.
+- L'élève-ingénieur s'engage à consulter régulièrement les tableaux d’affichage et les supports
+numériques: site web, messagerie électroniques, application,… dédiés à l'information et à la
+communication.
+- L'élève-ingénieur doit être muni, en permanence, de sa carte d'étudiant au sein de
+l'établissement et aucun étudiant n'est autorisé à accéder à l'établissement sans celle-ci.
+Article 22: Justification des absences
+Toutes les absences doivent être justifiées dans un délai de 48 heures auprès du service des affaires
+estudiantines en fournissant les pièces justificatives.
+Article 23: Autorisation après justification des absences
+- Tout élève-ingénieur qui a justifié son absence pendant une séance de TP, est autorisé
+exceptionnellement à rattraper cette séance avant la fin du volume horaire global réservé aux
+TP de l’élément du module en question.
+- Tout élève-ingénieur qui a justifié son absence pendant un contrôle continu (CC) et sur sa
+demande sous 48heures, pourrait être autorisé exceptionnellement à rattraper le CC raté en
+coordination avec le professeur de la matière.
+- Tout élève-ingénieur qui a justifié son absence pendant les examens de la session ordinaire et
+sur sa demande sous 48heures, pourrait être autorisé exceptionnellement à rattraper les
+éléments de modules ratés au cours de la session de rattrapage il gardera la note entière
+obtenue pendant la session de rattrapage.
+- L’élève-ingénieur obtient la note de 00 sur 20 dans le cas d’une absence pendant la session de
+rattrapage d’un CC ou d’un examen.
+Article 24: Sanctions disciplinaires en cas d'absence
+Le dénombrement des absences non justifiées pendant un semestre engendre les mesures suivantes :
+- Zéro (0) séance : Prise en considération lors des délibérations de fin d'année et de l’étude du
+dossier de candidature à la mobilité internationale;
+- Une séance (01) d’absence : Avertissement;
+- Trois (03) avertissements : Blâme et privation de tout avantage;
+- Douze (12) séances d’absence : interdiction de rattraper l’élément où l’étudiant a enregistré le
+plus d’absences;
+- Quinze (15) séances d’absence : interdiction de rattraper les deux éléments où l’étudiant a
+enregistré le plus d’absences;
+- Dix-huit (18) séances d’absence : interdiction de rattraper les trois éléments où l’étudiant a
+enregistré le plus d’absences;
+- Vingt-sept (27) séances d’absence : interdiction de passer tous les examens de la session de
+rattrapage;
+- Trente (30) séances d’absence : renvoi au conseil de discipline.
+Article 25: Comportement au sein de l'établissement
+- L’élève-ingénieur s’engage à respecter le corps professoral et le corps administratif ainsi que
+ses camarades. Il devra aussi avoir un bon comportement au sein de l’établissement;
+- L'élève-ingénieur doit porter une tenue décente;
+- L'élève-ingénieur ne doit pas faire entrer une quelconque personne étrangère à l’établissement
+sans permission.
+- Il est strictement interdit d’être en possession d’instruments dangereux ; il est aussi interdit de
+posséder ou de consommer des substances illégales ;
+- L'élève-ingénieur doit préserver les espaces verts ainsi que les différents bâtiments de
+l'établissement ;
+- Si un élève-ingénieur détériore un matériel ou des équipements de l'établissement, sa
+responsabilité est mise en cause.
+Article 26: Régularisation de la situation administrative
+Lorsque l’élève-ingénieur quitte définitivement l'établissement, il doit régulariser sa situation
+administrative auprès du service des affaires estudiantines.
+Article 27: Fraude lors des contrôles de connaissances
+Tout élève-ingénieur pris en flagrant délit de tricherie pendant le contrôle continu, l’examen, le TP, ou
+plagiat des contenus pour ses projets ou PIFE, sera déféré devant le conseil de discipline
+conformément aux dispositions du décret n° 2.06.619 du 28 chawal 1429 (28 octobre 2008) relatif au
+conseil de discipline des étudiants.
+Article 28: Consultation des copies d’examen
+Tout élève-ingénieur a le droit de demander une révision de la correction de ses épreuves écrites, en
+formulant une demande manuscrite adressée au directeur-adjoint, dans un délai de 48 heures à compter
+de la date de la publication des notes de la matière concernée.
+Relations Entreprises:
+L’ENSAM-Meknès dispose d’un potentiel humain et matériel lui permettant d’apporter son soutien à de nombreux secteurs industriels (Interface ENSAM-Entreprises, Cellule Formation Continue, SERAMM).
+L’objectif de l’ENSAM-Meknès est de rapprocher école et entreprise en instaurant un partenariat durable. Des liens entre l’ENSAM et les entreprises existent depuis de nombreuses années. Ils se traduisent essentiellement par des échanges de pratiques et de connaissances entre professionnels, étudiants et enseignants en matière de formation initiale, formation professionnelle, formation continue, recherche, et emplois.
+Des entreprises publiques ou privées participent activement dans le conseil d’établissement, dans les forums d’aide à l’insertion professionnelle (Forum Arts et Métiers-Entreprises, parrainage, des interventions de professionnels et de chefs d’entreprises dans les conférences ou tables rondes) et dans la réussite du cursus de formation Arts et Métiers par l’accueil de stagiaires et les projets industriels de fin d’études.
+PRESENTATION
+Sous les Hautes Directives Royales, l’ENSAM de Meknès a ouvert ses portes en septembre 1997. En effet, la création d’une école d’ingénieurs de cette envergure s’inscrit dans l’optique de l’ouverture de l’université marocaine sur son environnement socioéconomique ; elle représente également un enjeu stratégique de stimuler le secteur industriel et économique dans le cadre du développement de la région centre-sud. Le choix d’une école de type Arts et Métiers est une nécessité qui non seulement favorise la diversification des moyens et outils de renouvellement du secteur industriel, mais également et surtout une réponse au besoin accrue et à la demande croissante d’ingénieurs hautement qualifiés, dont la formation associe des compétences regroupant le savoir, le savoir-faire et le savoir être. Organisés autour de deux années de cycle préparatoire intégré, suivies de trois années de cycle ingénieur et de spécialisations, les cursus proposés par l’ENSAM de Meknès, en compétences dures et en Soft Skills, offrent un large panel de possibilités de carrière aux élèves ingénieurs dans le secteur industriel. La formation couvre plusieurs spécialités dont : Génie Mécanique Structures et Ingénierie des Produits (GMS), Génie Mécanique Procédés de Fabrication Industrielle (GMP), Génie Mécanique Énergétique (GME) ,Génie Électromécanique Commande et Management Industriel (GEC), Génie Électromécanique Énergie et Maintenance Électromécanique (GEE), Génie Industriel Intelligence Artificielle et Data Science (GIIA), Génie Industriel et Productique (GIP), Génie Civil (GC).
+L’ENSAM-Meknès est bâtie sur 10 hectares et offre un cadre de travail agréable aux élèves-ingénieurs, au corps enseignant et au personnel administratif. En plus d’une superficie considérable de l’espace vert, elle compte 4 amphithéâtres, 5 salles de cours, 16 salles de TD, 4 salles de dessin industriel, un Centre de calcul, un Centre de Communication et de Soft Skills, une salle de conférence réservée à la formation continue, une salle Forum consacrée aux activités en relation avec l’industrie, principalement « Forum ENSAM-Entreprises », une bibliothèque avec 2 salles de lecture pour les étudiants, une salle de lecture pour les professeurs, et une vidéothèque. S’ajoute à cela, un auditorium et une salle de langue avec un équipement ultra moderne.
+ES MODULES FONDAMENTAUX DE FORMATION
+1- Modules de base (Sciences de l’ingénieur) : Automatique, Mathématiques, Informatique, Mécanique des structures, Energétique, …
+2- Modules pratiques : Construction mécanique, CFAO, Fabrication mécanique, automatique des systèmes.
+3- Modules de culture et techniques de communication : Langues, Culture de société, Economie générale, Informatique, Conduite de projets, management et gestion des entreprises…
+LES DOMAINES D’ÉTUDES ACCRÉDITÉS PAR LE CYCLE D’INGÉNIERIE
+1- Génie mécanique
+Option : Structures et ingénierie des produits
+Option : énergétique
+Option : procédées de fabrication industrielle
+2- Génie électromécanique
+Option: énergie et maintenance électromécanique
+Option: commande et management industriel
+3- Génie industriel,
+Option: intelligence artificielle et data science
+Option: Génie Industriel et productique
+4- Génie Civil.
+ENSAM CLUBS
+L'ENSAM propose un large éventail d'activités culturelles, compétitives, entrepreneuriales et sociales ainsi que des formations techniques et des recherches scientifiques. Ces activités constituent une intégration bénéfique et professionnelle des élèves-ingénieurs «Gadz'arts», conçus pour être polyvalents et ouverts sur le monde socio-culturel et socio-économique.
+Les Clubs ENSAM se distinguent par une diversité de vocations, un esprit d'initiative, un profil d'ingénierie exigeant et efficace en plus d'une profonde conviction pour leurs idées, leurs concepts ainsi que leurs projets. Ils ont donc été créés sous la tutelle de l’association des élèves, qui joue actuellement un rôle primordial dans l’animation de la vie associative et festive de l’école.
+Le club de sport propose plusieurs activités sportives et physiques optionnelles pour tous les élèves ingénieurs qui souhaitent pratiquer leur passion ainsi que pour ceux qui souhaitent uniquement rester en forme.
+Les principales préoccupations du club sont d'encourager la pratique du sport en tant qu'élément indispensable des loisirs, d'explorer des sports nouveaux et jusqu'alors inconnus, d'augmenter la compétitivité entre étudiants dans une perspective sportive, et d'améliorer la qualité du sport universitaire et de lui donner un nouveau souffle de vie.
+PARCOURS PEDAGOGIQUE
+Le profil de l’ingénieur de demain doit être celui d’un manager qui a la capacité d’innover, et qui dispose d’une haute compétence technique et entrepreneuriale. Il devra être en mesure de s’intégrer rapidement dans des équipes multidisciplinaires et multiculturelles, de s’ouvrir sur d’autres cultures, de savoir communiquer, de maîtriser plusieurs langues, de prendre des responsabilités… La formation est divisée en deux cycles : deux ans des années préparatoires intégrées (4semesters) et trois ans du cycle d’ingénierie (6 semestres).
+CYCLE DES ANNEES PREPARATOIRES INTEGREES
+Il assure une formation qui donne aux élèves-ingénieurs les bases scientifiques, techniques et humaines nécessaires au cycle d’ingénieur, leur permet de développer un savoir-faire méthodologique et une rigueur de raisonnement et de travail, accompagner l’élève-ingénieur dans la transition entre le lycée et l’école d’ingénieurs. La validation des deux années du cycle préparatoire intégré permet l’accès en première année d’une filière du cycle ingénieur. L’élève-ingénieur peut éventuellement faire valoir les modules validés de la filière des années préparatoires intégrées pour accéder, conformément aux critères et prérequis exigés, à d’autres filières dispensées au sein de l’école ou au sein d’autres écoles d’ingénieurs et établissements d’enseignement supérieur.
+CYCLE INGENIEUR ARTS ET METIERS :
+La formation Ingénieur Arts et Métiers permet à l’élève-ingénieur de :
+** Acquérir des compétences scientifiques, techniques et professionnelles;
+** S’adapter à un milieu professionnel évolutif ;
+** S’engager et être capable d’assurer des responsabilités ;
+** Être apte au travail en groupe et à la communication ;
+** Être apte à prendre en compte les problèmes humains et sociaux des milieux professionnels.
+Formation Ingénieur Arts et Métiers:
+L’admission à l’ENSAM-Meknès se fait par trois voies :
+En première année;
+En troisième année;
+En quatrième année.
+Parcours pédagogique:
+Le profil de l’ingénieur de demain doit être celui d’un manager qui a la capacité d’innovation, et armé d’une haute compétence technologique et entrepreneuriale. Il devra être capable de s’intégrer rapidement dans des équipes multidisciplinaires et multiculturelles, capable de s’ouvrir vers d’autres cultures, savoir communiquer, maîtriser plusieurs langues, prendre des responsabilités…
+La formation initiale se déroule sur cinq années d’étude (10 semestres) et se scinde en deux cycles :
+
+Années préparatoires;
+Cycle ingénieur.
+années préparatoires:
+OBJECTIFS DE LA FORMATION :
+La filière des Années Préparatoires est un programme qui dure deux années d’études durant lesquelles on donne à l’étudiant de solides bases scientifiques, technologiques et méthodologiques. Ce premier cycle de formation est structuré de manière à préparer l’étudiant pour aborder la formation du cycle ingénieur en lui permettant d’acquérir de bonnes compétences en :
+- Mathématiques,
+- Physique,
+-Technologie,
+- Système d’information et techniques d’expression et de communication.
+quelques matières enseignées :
+ALGÈBRE, ANALYSE, MÉTHODES NUMÉRIQUES, PROBABILITÉ,…
+ELECTRICITE, MÉCANIQUE, CHIMIE, THERMODYNAMIQUE,…
+CONSTRUCTION MÉCANIQUE, MATÉRIAUX, FORGE, FONDERIE, USINAGE, AUTOMATIQUE, MÉTALLURGIE, DAO,…
+INFORMATIQUE, LANGUES ET COMMUNICATION
+COMPÉTENCES A ACQUÉRIR :
+Faire preuve d’une grande capacité de travail, d’organisation, d’analyse et de synthèse ainsi que d’une excellente aptitude à la conceptualisation.
+débouchés
+L’accès direct au cycle d’ingénieur Arts et Métiers qui dure trois années.
+Cycle Ingénieur Arts et Métiers:
+Le cycle ingénieur à l’ENSAM de Meknès dure trois années (6 semestres) avec une ingénierie pédagogique bien étudiée de façon à donner à la formation une structuration en passant d’un semestre à l’autre et d’une année à l’autre. Un montage de formation qui permet à l’étudiant d’acquérir les concepts régissant les phénomènes physiques et les processus techniques intervenant dans le monde industriel.
+La structure pédagogique de la formation Arts et Métiers de l’ENSAM de Meknès est organisée en deux phases : phase générale Arts et Métiers et une phase d’approfondissement.
+Phase générale Arts & Métiers ou "Socle Arts et Métiers" :
+Il s’agit d’une phase de formation appelée aussi tronc commun puisque tous les élèves ingénieurs de l’école suivent une formation pour acquérir les bases nécessaires au profil Arts et Métiers.
+C’est une phase qui dure trois semestres où l’étudiant apprend comment appréhender un problème scientifique, formuler la ou les solutions possibles en prenant les hypothèses correctes et analyser les conséquences de l’implémentation de ces solutions sur l’environnement industriel et environnemental.
+Cette phase de formation permet à l’étudiant de connaitre les domaines technologiques constituant la spécificité du profil Arts et Métiers à savoir la maîtrise de la conception et la réalisation des produits et aussi la maîtrise des systèmes de production.
+C’est aussi une période de formation où l’élève-ingénieur apprend à réaliser des projets en construction mécanique et bureaux d’études lui permettant une implication dans un travail d’équipe et des réalisations concrètes de l’objet conçu.
+Cette phase est caractérisée par des enseignements de grande importance dans les domaines suivants :
+Mécanique et matériaux : MMC, structures, procédés, fabrication, plastiques et composites;
+Automatique Electronique Electromécanique et Electrotechnique : Traitement de signal, automatique, informatique industrielle, électrotechnique, électronique de puissance;
+Énergétique : Mécanique des fluides, machines thermiques, hydrauliques, Transfert thermique;
+Bureaux d’études : conception, simulation, réalisation;
+Gestion et organisation des systèmes de production;
+Mathématiques appliquées et informatique;
+Soft skills .
+Phase d’approfondissement
+La phase d’approfondissement débute le semestre quatre du cycle ingénieur. Elle associe la formation générale à la formation aux métiers à travers des modules communs aux élèves-ingénieurs de la même filière et s’achève par des modules de spécialité spécifiques à chaque option de la filière. Généraliste, l’ingénieur de l’ENSAM Meknès est pragmatique, polyvalent, à haute compétence technique. Il se caractérise de plus par son aptitude au travail en équipe, ses qualités humaines, son sens de responsabilité et son esprit solidaire.
+Les objectifs généraux de la formation à l’ENSAM de Meknès sont déclinés comme suit :
+- L’Acquisition de compétences scientifiques, techniques et professionnelles ;
+- L’Adaptation à des situations nouvelles et à un milieu professionnel évolutif ;
+- L’Engagement et la capacité d’assurer des responsabilités ;
+- L’Aptitude au travail en groupe et à la communication ;
+- L’Aptitude à prendre en compte les problèmes humains, sociaux et environnementaux.
+Les spécialités dispensées à l’ENSAM de Meknès
+Compte tenu du besoin du marché de l’emploi et des exigences du tissu industriel moderne du Maroc, l’École Nationale d’arts et Métiers de Meknès offre huit (8) spécialités à ses élèves ingénieurs. Ces huit filières est le fruit d’une opération d’évaluation de tous les programmes de l’école . Une évaluation assurée par des équipes internes et externes supervisée par la direction en étroite concertation avec la commission pédagogique de l’établissement. Les huit spécialités sont :
+Génie Mécanique, Structures et Ingénierie des produits;
+Génie Mécanique, Procédés de Fabrication Industrielle;
+Génie Mécanique, Énergétique;
+Génie Électromécanique, Commande et Management Industriel;
+Génie Électromécanique, Énergie et Maintenance Électromécanique;
+Génie Industriel, Intelligence Artificielle et Data Science;
+Génie Industriel et productique;
+Génie Civil;
+Stages industriels:
+Ont l’objectif de compléter la formation de l’élève-ingénieur de l’ENSAM et de l’enrichir par des expériences professionnelles.
+Ces stages s’effectuent sous la responsabilité et avec le suivi du parrain industriel et d’un professeur de l’école.
+L’élève ingénieur est appelé à effectuer au moins quatre stages d’une durée totale de sept mois minimum et onze mois maximum, en l’occurrence:
+Stage d’initiation;
+Stage technicien;
+Stage de formation;
+Stage industriel de fin d’études.
+Projet industriel de fin d’études (PIFE):
+a pour objectif de vérifier l’assimilation des connaissances et des méthodes enseignées à l’élève-ingénieur et de mettre en application son savoir et son savoir-faire.
+Perspectives d’emploi:
+En fin de la formation, les lauréats de l’ENSAM-Meknès peuvent occuper des emplois très variés: Ingénieur Calcul, Ingénieur Production, Ingénieur Bureau d’Étude, Ingénieur Développement industriel, Ingénieur Responsable Produits, Consultant, Enseignant-chercheur, Ingénieur- chercheur,…
+CONDITIONS D’ADMISSION:
+• Accès sans concours :
+Candidat ayant validé les deux années préparatoires de l’école ;
+Candidat admis au Concours National Commun (CNC)selon le nombre de places disponibles(environ 25 places) ;
+• Accès avec concours :
+Le concours d’accès en 3ème année (1ère année du cycle Ingénieur) est ouvert, dans la limite des places disponibles, aux candidats titulaires des diplômes Universitaires suivants:
+Diplôme Universitaire de Technologie (DUT) en: Génie mécanique; Génie électrique; Génie industriel; Génie des procédés; Génie des matériaux;
+Diplôme des Études Universitaires Générales (DEUG) en: Mathématiques; Mathématiques – Informatique; Sciences de la Matière – Physique;
+Diplôme des Études Universitaires des Sciences et Techniques (DEUST) en: Génie mécanique (GM); Génie électrique (GE); Mathématiques – Informatique – Physique (MIP); Mathématiques – Informatique - Physique – Chimie (MIPC);
+Diplôme des Études Universitaires Professionnelles (DEUP) en: Génie mécanique, Génie électrique, Génie industriel; Génie des procédés; Génie des matériaux;
+Brevet de Technicien Supérieur (BTS);
+Diplôme de Technicien Spécialisé(DTS);
+Autres diplômes reconnus équivalents aux diplômes ci-dessus.
+Et ayant une moyenne de diplôme supérieure ou égale à 12.
+Modalités du concours:
+A -- Présélection basée sur les résultats universitaires ;
+Toute information erronée entraîne l'annulation de la candidature. La falsification de tout document de candidature donne lieu à une poursuite.
+B -- Un concours qui portera sur le programme des deux premières années des Facultés des Sciences du Maroc en Mathématiques et en Physique.
+
+
+
+
+
+
+
+
+Procédure de candidature au concours:
+Première étape:
+Scanner sur un même fichier, (format PDF; taille max 6Mo) les documents suivants: Relevés des notes de toutes les années universitaires; diplômes (ou attestations) universitaires et du baccalauréat; Carte nationale d'identité, et les importer dans ce formulaire.
+Faire la pré-inscription en ligne. (Le lien du Formulaire sera indiqué dans l'annonce du concours.)
+Cette première étape est suffisante pour prendre en charge votre candidature au concours.
+Deuxième étape: (obligatoire pour les candidats retenus pour passer le concours.)
+Le jour du concours, les candidats retenus doivent obligatoirement déposer à l'ENSAM-Meknès le dossier de candidature (version papier) composé des pièces suivantes:
+Demande manuscrite portant le Code National de l’Étudiant (CNE) ou code Massar et le numéro de téléphone du candidat;
+Copie certifiée conforme de la Carte Nationale d’Identité (CNI);
+Copie certifiée conforme du diplôme ou attestation de réussite en 2ème année pour les titulaires du DEUG ou équivalent;
+Copies certifiées conformes des relevés de notes des deux premières années ou les 4 semestres pour les candidats inscrits dans le système LMD;
+Admission --2ème Année Cycle Ingénieur--
+CONDITIONS D’ADMISSION:
+Le concours d’accès en 4ème année ou en 3ème année pour certains cas de la formation d’Ingénieur de l’ENSAM-Meknès est ouvert, dans la limite des places disponibles, aux candidats titulaires de l’un des diplômes suivants ou leurs équivalents:
+Licence des Études Fondamentales en Mathématiques ; Mathématiques et Informatique ; Sciences de la Matière Physique.
+Licence ès Sciences et Techniques en Mathématiques ; Mathématiques et Informatique ; Sciences physique ; Génie électrique ; Mécanique ; Génie mécanique ; Génie industriel ; Énergétique ; Génie des procédés ; Sciences de l’ingénieur.
+Et ayant une moyenne de diplôme supérieure ou égale à 12.
+Modalités du concours:
+A -- Présélection basée sur les résultats universitaires ;
+Toute information erronée entraîne l'annulation de la candidature. La falsification de tout document de candidature donne lieu à une poursuite.
+B -- Concours : les candidats présélectionnés passeront une épreuve qui portera sur les prés-requis des formations d’ingénieur à l’école.
+Procédure de candidature au concours:
+Première étape:
+Scanner sur un même fichier, (format PDF; taille max 6Mo) les documents suivants: Relevés des notes de toutes les années universitaires; diplômes (ou attestations) universitaires et du baccalauréat; Carte nationale d'identité, et les importer dans ce formulaire.
+Faire la pré-inscription en ligne. (Le lien du Formulaire sera indiqué dans l'annonce du concours.)
+Cette première étape est suffisante pour prendre en charge votre candidature au concours.
+Deuxième étape: (obligatoire pour les candidats retenus pour passer le concours.)
+Le jour du concours, les candidats retenus doivent obligatoirement déposer à l'ENSAM-Meknès le dossier de candidature (version papier) composé des pièces suivantes:
+Demande manuscrite portant le Code National de l’Étudiant (CNE) ou code Massar et le numéro de téléphone du candidat;
+Copie certifiée conforme de la Carte Nationale d’Identité (CNI);
+Copie certifiée conforme du diplôme ou attestation de réussite pour les candidats inscrits en système LMD;
+Copies certifiées conformes des relevés de notes des 1ère année, 2ème année et 3ème année;
+DOCTOART
+À l’ENSAM-Meknès, la formation doctorale est organisée autour des thèmes de recherche suivants:
+MÉCANIQUE, CONCEPTION ET PROCÉDÉS DE FABRICATION;
+COMMANDE ET SUPERVISION DES SYSTÈMES;
+ENDOMMAGEMENT ET DÉGRADATION DES MATÉRIAUX;
+SURFACE, INTERFACE ET TRIBOLOGIE;
+ÉNERGÉTIQUE ET ENVIRONNEMENT;
+MÉCANIQUE AVANCÉE ET APPLICATIONS INDUSTRIELLES.
+Les études doctorales forment à la recherche et par la recherche.
+D’une durée de 3 ans après l’obtention du diplôme national de Master ou sur la base de la reconnaissance d’un niveau équivalent, elles permettent d’obtenir, après soutenance d’une thèse, le grade de docteur.
+Régies par l’arrêté du ministre de l’éducation nationale de l’enseignement supérieur, de la formation des cadres et de la recherche scientifique n°1371.07 (du 23 septembre 2008) approuvant le cahier des normes pédagogiques nationales du cycle du doctorat et fixant le cadre national de la formation et les modalités conduisant à la délivrance du diplôme national de doctorat, les études doctorales s’organisent au sein du centre d’études doctorales (CEDOC) accrédité par le ministère de l’enseignement supérieur.
+Les études doctorales permettent au doctorant d’acquérir une haute qualification scientifique et professionnelle afin de se spécialiser dans sa discipline, de conduire à bien ses travaux de recherche et de développer son employabilité future.
+Elles offrent aux doctorants, outre l’encadrement nécessaire à la préparation de leur thèse, un environnement scientifique les aidant à préparer leur insertion professionnelle, soit dans la recherche et l’enseignement, en tant qu’enseignant-chercheur ou chercheur, soit dans le secteur privé au sein d’une entreprise.
+Les doctorants préparent leur thèse au sein d’une unité de recherche de l’établissement. Un projet de recherche doctoral fait l’objet d’un suivi de la part du CEDOC qui par ailleurs assure l’animation de sa communauté scientifique.
+Le doctorant accède à une offre de formation qui lui est dédiée mais aussi aux ressources scientifiques dont il a besoin pour poursuivre ses recherches. Il peut également participer à la diffusion et la vulgarisation de ses travaux de recherche.
+Génie Electromécanique, Commande et Management Industriel
+La formation en Génie Electromécanique, Commande et Management Industriel couvre les domaines suivants :
+
+Capteurs intelligents : conception, acquisition et gestion des données.
+Commande des machines électriques : études et applications.
+Systèmes électromécaniques industriels : simulation et maintenance.
+Processus industriels : conception et automatisation selon les normes et standards.
+Énergie renouvelable : intégration dans les systèmes industriels.
+Maintenance industrielle : approches modernes et solutions innovantes.
+Management industriel : gestion de projets industriels et optimisation des ressources.
+Les débouchés incluent des métiers liés à la conception et gestion des systèmes électromécaniques dans divers secteurs industriels.
+
+Génie Mécanique, Procédés de Fabrication Industrielle
+La formation en Génie Mécanique et Procédés de Fabrication Industrielle offre une expertise pratique dans :
+
+Projets industriels : conception et réalisation.
+Procédés de fabrication : plasturgie, usinage, métallurgie et soudage.
+Maintenance industrielle avancée : machines de production.
+Contrôle qualité et optimisation des procédés.
+Innovation et recherche en fabrication additive et impression 3D.
+Les diplômés sont formés pour intégrer différents secteurs industriels, notamment :
+
+Automobile, aéronautique, et ferroviaire.
+Métallurgie et sidérurgie.
+Industrie de production et d'énergie.
+Recherche et développement dans l'innovation industrille
+L’ENSAM-Meknès a tissé des liens avec des partenaires académiques et industriels au niveau national et international, l'École offre la possibilité de faire des stages et semestres d'études à l'étranger, ou de poursuivre une formation de double diplomation3.
+Double Diplômation
+Les opportunités de double diplôme, d'échanges d'étudiants et d'enseignants-chercheurs sont possibles avec :
+
+École Nationale Supérieure d'Arts et Métiers, de nom Arts et Métiers Sciences et Technologies, dans un cadre de collaboration dans l’étude technique et de la mise en place de la formation Ingénieur Arts et Métiers de Meknès;
+École Centrale de Lyon;
+École Nationale Supérieure des Mines de Nancy;
+Institut National des Sciences Appliquées - INSA de Lyon;
+Worcester Polytechnic Institut - WPI, Massachusetts (USA);
+École Nationale d'Ingénieurs de Brest - ENIB;
+Institut Supérieur d'Ingénierie de la Conception - InSIC, Saint-Dié-Des-Vosges (France);
+Université Laval, Canada;
+Institut Français de la Mécanique Avancée de Clermont-Ferrand (France)
+ENSAM en chiffres
+Surface utile totale: 10 ha
+4 amphithéâtres;
+5 salles de cours, 16 salles de TD, 4 salles de dessin industriel;
+Un centre de calcul;
+Une salle de conférence réservée à la formation continue;
+Un forum pour les activités en relation avec l’industrie;
+Une bibliothèque avec 2 salles de lecture pour les étudiants, une salle de lecture pour les professeurs, et une vidéothèque;
+Un auditorium et une salle de langue avec un équipement ultra moderne;
+6 départements.
+Enseignement:
+78 enseignants et enseignants-chercheurs;
+7 filières de formation ingénieur d’État Arts et Métiers;
+1291 élèves-ingénieurs dont 500 filles au titre de 2016-2015;
+44 doctorants;
+200 diplômés en 2016 dont 5% étrangers;
+883 diplômés depuis la création de l’ENSAM-Meknès.
+ Recherche:
+13 équipes de recherche;
+3 laboratoires de recherche;
+1 centre de recherche scientifique et d’innovation technologique;
+10 programmes de recherche;
+2 unités mixtes internationales;
+60 articles par an.
+Partenariat Entreprises:
+600 projets industriels;
+40 accords de partenariats.
+Relations internationales:
+20 Accords de coopération;
+6 Masters recherche;
+30% Élèves-ingénieurs et Doctorants partis chaque année à l’étranger;
+5% Étudiants étrangers accueillis chaque année à l’ENSAM-Meknès.
+
+Les modules de l'ensam : 1A : sem 1
+Analyse 1
+Mécanique du point
+Electricité
+Construction mécanique 1
+Langues 1
+Méthodologie de travail universitaire
+
+
+1A : sem 2
+Thermodynamique et statique des fluides
+Chimie générale et matériaux
+Automatisme et construction 2
+Procédés de fabrication
+Langues 2
+Informatique et digital
+
+2A : sem 1
+Chimie organique et métallurgie
+Mécanique du solide et usinage
+Automatique et RDM
+Programmation et Probabilités
+Langues 3
+Culture et Arts
+
+2A : sem 2
+Algèbre 2
+Eléments de machine
+Electromagnétisme et Optique
+Programmation avancée et méthodes numériques
+Langues 4
+Savoir être, Développement personnel
+3A : Genie Civil sem 1
+Matéraux de Construction et Mécanique des sols I
+Statique Appliquée, CAO et Topographie SIG
+Mécanique des Milieux Continus et Géologie de l'ingénieur
+Langues Etrangères (Anglais, Français)
+Dimensionnement des structures
+Digital Skills : Excel Avancé
+Méthodes numériques et Statistiques
+
+3A : Genie Civil sem 2
+Terrassement et Dimensionement des chaussées, Géophysique	
+Formulation et Comportement du béton, béton armé
+Mécanique des Sols II et RDM avancée
+Mécanique des fluides et Hydrologie
+Langues Etrangères (Anglais, Français)
+Culture and Art Skills
+Modélisation statistique et recherche operationnelle

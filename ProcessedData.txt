@@ -1,0 +1,158 @@
+Présentation Générale de l’ENSAM Meknès
+
+L’ENSAM de Meknès, créée en 1997 sous les Hautes Directives Royales, est un établissement public de l’enseignement supérieur affilié à l’Université Moulay Ismail (UMI). L’école forme des ingénieurs polyvalents, compétents et innovants pour répondre aux besoins des secteurs industriels et technologiques. Sous la direction de M. Aboubakr Bouayad, elle met l’accent sur l’excellence académique, les opportunités internationales et l’innovation par la recherche scientifique et les activités parascolaires.
+
+Structure Académique et Filières
+
+Cycles de Formation :
+
+Cycle préparatoire (2 ans) : Bases scientifiques et techniques.
+
+Cycle ingénieur (3 ans) : Phase polyvalente suivie d’une spécialisation.
+
+Filières proposées :
+
+Génie Mécanique
+
+Structures et Ingénierie des Produits (GMS).
+
+Procédés de Fabrication Industrielle (GMP).
+
+Énergétique (GME).
+
+Génie Électromécanique
+
+Commande et Management Industriel (GEC).
+
+Énergie et Maintenance Électromécanique (GEE).
+
+Génie Industriel
+
+Intelligence Artificielle et Data Science (GIIA).
+
+Génie Industriel et Productique (GIP).
+
+Génie Civil (GC).
+
+Clubs et Vie Parascolaire
+
+Clubs Techniques et Innovants :
+
+Club Énergétique : Villa éco-énergétique, panneaux solaires, formations sur PVSyst et ANSYS.
+
+Club Robotique : Formations sur Arduino, Raspberry Pi, ESP32, participation à l’African Robotics Brains.
+
+Clubs Culturels et Sociaux :
+
+Club Social : Dons de sang, actions caritatives (Spread Hope's Day, Al Qoffa).
+
+Caravane ALHAYAT : Formations en secourisme, caravane annuelle.
+
+Club Culturel : ENSAM Talk-X, Tajwid, soirées culturelles.
+
+Clubs Ludiques et Artistiques :
+
+Club K-Otaku : Tournois FIFA, soirées cinéma, Shenghai Festival.
+
+Insertion Professionnelle et Stages
+
+Taux d’insertion : 84 % des diplômés trouvent un emploi en moins de six mois.
+
+Stages obligatoires :
+
+Stage d’initiation.
+
+Stage technicien (1ᵉᶜᵇ année cycle ingénieur).
+
+Stage de formation (4ᵉᶜᵇ année cycle ingénieur).
+
+Stage de fin d’études (S6).
+
+Opportunités de Double Diplômation
+
+Partenariats internationaux :
+
+France : Arts et Métiers ParisTech, Centrale Lyon, Mines de Nancy, etc.
+
+Canada : Université Laval.
+
+États-Unis : Worcester Polytechnic Institute (WPI).
+
+Formations disponibles :
+
+Ingénieur/Ingénieur : Refaire les 4eme et 5eme années dans une école partenaire.
+
+Master Arts et Métiers : Cours partagés entre ENSAM et l’école partenaire.
+
+Double diplômation avec FH Aachen : Programme de 4 ans, 5 semestres à UMI et 3 à FH Aachen (Allemagne).
+
+Modules des Années Préparatoires et Cycle Ingénieur
+
+1ᵉᶜᵇ Année, S1 : Analyse, Mécanique du Point, Électricité, Langues, etc.
+
+1ᵉᶜᵇ Année, S2 : Thermodynamique, Chimie, Procédés de Fabrication, etc.
+
+2ᵉᶜᵇ Année, S1 : Chimie Organique, Mécanique du Solide, Automatique, etc.
+
+2ᵉᶜᵇ Année, S2 : Algèbre 2, Éléments de Machine, Programmation Avancée, etc.
+
+Cycle Ingénieur : Modules spécifiques par filière comme Matériaux de Construction, Hydrologie, etc.
+
+Organisation des Travaux Pratiques (TP)
+
+Départements et Activités :
+
+Département Mécanique : Mécanique vibratoire, RDM, etc.
+
+Département Energétique : Transferts thermiques, Machines thermiques.
+
+Département AEEE (automatique,electronique,electrique,Energétique) : Informatique industrielle, Automatique.
+
+Département Matériaux : Usinage, Forge, Métallurgie.
+
+Autres : CAO/DAO (3ᵉᶜᵇ étage), Topographie (extérieur).
+
+Administration et Contacts
+
+Directeur : M. Aboubakr Bouayad.
+
+Secrétaire Général : M. Mohammed Allaouy.
+
+Responsable des Relations Industrielles : M. Bououlid Idrissi Badr.
+
+Adresse : Marjane 2, B.P. 15290 Al-Mansour, Meknès.
+
+Contact : contact@ensam.umi.ac.ma.
+
+Règlement Pédagogique
+
+Contrôle Continu : Devoirs, exposés, rapports.
+
+Validation : Moyenne minimale de 11/20 (prépa) ou 12/20 (cycle ingénieur).
+
+Rattrapage : Uniquement pour modules non validés (hors TP, projets).
+
+Stages : Soutenance obligatoire pour le PIFE.
+
+Enquête sur l’Insertion Professionnelle
+
+Démographie : 51 % hommes, 49 % femmes.
+
+Salaires :
+
+Maroc : 8 000 à 14 000 DH selon filière.
+
+Étranger : En moyenne 16 200 DH.
+
+Défis : Compétences linguistiques, réseaux professionnels.
+
+Compétences demandées : Programmation, automatisation industrielle, leadership, gestion du stress.
+
+le chef du filiere GMS est Mr El Fahim
+le chef du filiere GEE est Mr Bakhti
+le chef du filiere GME est Mr Boutamacht
+le chef du filiere GIIA est Mr Masrour
+le chef du filiere GIP est Mme Dadda
+le chef du filiere GEC est Mr Sabor
+le chef du filiere GC est Mr Chaaba
+le chef du filiere GMP est Mr Kabiri
